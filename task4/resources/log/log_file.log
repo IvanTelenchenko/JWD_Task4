@@ -1,0 +1,224 @@
+2021-01-30 18:48:21 INFO  Server:29 - Server socket has been created
+2021-01-30 18:48:21 INFO  Server:33 - Serever is waiting a client
+2021-01-30 18:48:25 INFO  Server:39 - Client has just connecnted
+2021-01-30 18:48:25 INFO  Server:45 - Welcome message has been sent
+2021-01-30 18:48:25 INFO  Client:31 - Streams have been created
+2021-01-30 18:48:25 INFO  Client:32 - Client has connected
+2021-01-30 18:48:25 INFO  Client:44 - Message has got
+2021-01-30 18:48:27 INFO  Client:50 - Request "2" has sent to server
+2021-01-30 18:48:27 INFO  Server:54 - Request has got
+2021-01-30 18:48:27 INFO  ServiceEditImp:43 - Class Task2 has created
+2021-01-30 18:48:27 INFO  Server:116 - Method run has done
+2021-01-30 18:48:27 INFO  Server:63 - Response has sent
+2021-01-30 18:48:27 INFO  Client:58 - Response was gotten
+2021-01-30 18:48:27 INFO  Client:44 - Message has got
+2021-01-30 18:48:27 INFO  Server:45 - Welcome message has been sent
+2021-01-30 18:48:48 INFO  Client:50 - Request "2" has sent to server
+2021-01-30 18:48:48 INFO  Server:54 - Request has got
+2021-01-30 18:48:48 INFO  ServiceEditImp:43 - Class Task2 has created
+2021-01-30 18:48:48 INFO  Server:116 - Method run has done
+2021-01-30 18:48:48 INFO  Server:63 - Response has sent
+2021-01-30 18:48:48 INFO  Server:45 - Welcome message has been sent
+2021-01-30 18:48:48 INFO  Client:58 - Response was gotten
+2021-01-30 18:48:48 INFO  Client:44 - Message has got
+2021-01-30 18:48:48 INFO  Client:50 - Request "" has sent to server
+2021-01-30 18:48:48 INFO  Server:54 - Request has got
+2021-01-30 18:48:48 INFO  Server:116 - Method run has done
+2021-01-30 18:48:48 INFO  Server:63 - Response has sent
+2021-01-30 18:48:48 INFO  Server:45 - Welcome message has been sent
+2021-01-30 18:48:48 INFO  Client:58 - Response was gotten
+2021-01-30 18:48:48 INFO  Client:44 - Message has got
+2021-01-30 18:48:49 INFO  Client:50 - Request "5" has sent to server
+2021-01-30 18:48:49 INFO  Server:54 - Request has got
+2021-01-30 18:48:49 INFO  ServiceEditImp:52 - Class Task5 has created
+2021-01-30 18:48:49 INFO  Server:116 - Method run has done
+2021-01-30 18:48:49 INFO  Server:63 - Response has sent
+2021-01-30 18:48:49 INFO  Server:45 - Welcome message has been sent
+2021-01-30 18:48:49 INFO  Client:58 - Response was gotten
+2021-01-30 18:48:49 INFO  Client:44 - Message has got
+2021-01-30 18:48:50 INFO  Server:54 - Request has got
+2021-01-30 18:48:50 INFO  Client:50 - Request "4" has sent to server
+2021-01-30 18:48:50 INFO  ServiceEditImp:49 - Class Task4 has created
+2021-01-30 18:48:50 INFO  Server:116 - Method run has done
+2021-01-30 18:48:50 INFO  Server:63 - Response has sent
+2021-01-30 18:48:50 INFO  Server:45 - Welcome message has been sent
+2021-01-30 18:48:50 INFO  Client:58 - Response was gotten
+2021-01-30 18:48:50 INFO  Client:44 - Message has got
+2021-01-30 18:48:52 INFO  Client:50 - Request "exit" has sent to server
+2021-01-30 18:48:52 INFO  Client:53 - Client has left to the server
+2021-01-30 18:48:52 INFO  Client:65 - Client is disabled 
+ All streams were closed
+2021-01-30 18:48:52 INFO  Server:54 - Request has got
+2021-01-30 18:48:52 INFO  Server:57 - Client has disconnected
+2021-01-30 18:48:52 INFO  Server:83 - Server has closed 
+ All streams has closed
+2021-02-03 01:22:21 INFO  Server:28 - Server socket has been created
+2021-02-03 01:22:21 INFO  Server:32 - Serever is waiting a client
+2021-02-03 01:22:32 INFO  Server:38 - Client has just connecnted
+2021-02-03 01:22:32 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:22:32 INFO  Client:31 - Streams have been created
+2021-02-03 01:22:32 INFO  Client:32 - Client has connected
+2021-02-03 01:22:32 INFO  Client:40 - Message has got
+2021-02-03 01:22:42 INFO  Client:46 - Request "1" has sent to server
+2021-02-03 01:22:42 INFO  Server:47 - Request has got
+2021-02-03 01:22:42 INFO  ServiceEditImp:40 - Class Task1 has created
+2021-02-03 01:22:42 INFO  Server:96 - Method run has done
+2021-02-03 01:22:42 INFO  Client:54 - Response was gotten
+2021-02-03 01:22:42 INFO  Server:55 - Response has sent
+2021-02-03 01:22:42 INFO  Client:40 - Message has got
+2021-02-03 01:22:42 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:22:43 INFO  Client:46 - Request "2" has sent to server
+2021-02-03 01:22:43 INFO  Server:47 - Request has got
+2021-02-03 01:22:43 INFO  ServiceEditImp:43 - Class Task2 has created
+2021-02-03 01:22:43 INFO  Server:96 - Method run has done
+2021-02-03 01:22:43 INFO  Server:55 - Response has sent
+2021-02-03 01:22:43 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:22:43 INFO  Client:54 - Response was gotten
+2021-02-03 01:22:43 INFO  Client:40 - Message has got
+2021-02-03 01:22:44 INFO  Client:46 - Request "3" has sent to server
+2021-02-03 01:22:44 INFO  Server:47 - Request has got
+2021-02-03 01:22:44 INFO  ServiceEditImp:46 - Class Task3 has created
+2021-02-03 01:22:44 INFO  Server:96 - Method run has done
+2021-02-03 01:22:44 INFO  Server:55 - Response has sent
+2021-02-03 01:22:44 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:22:44 INFO  Client:54 - Response was gotten
+2021-02-03 01:22:44 INFO  Client:40 - Message has got
+2021-02-03 01:22:45 INFO  Client:46 - Request "4" has sent to server
+2021-02-03 01:22:45 INFO  Server:47 - Request has got
+2021-02-03 01:22:45 INFO  ServiceEditImp:49 - Class Task4 has created
+2021-02-03 01:22:45 INFO  Server:96 - Method run has done
+2021-02-03 01:22:45 INFO  Server:55 - Response has sent
+2021-02-03 01:22:45 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:22:45 INFO  Client:54 - Response was gotten
+2021-02-03 01:22:45 INFO  Client:40 - Message has got
+2021-02-03 01:22:46 INFO  Client:46 - Request "5" has sent to server
+2021-02-03 01:22:46 INFO  Server:47 - Request has got
+2021-02-03 01:22:46 INFO  ServiceEditImp:52 - Class Task5 has created
+2021-02-03 01:22:46 INFO  Server:96 - Method run has done
+2021-02-03 01:22:46 INFO  Server:55 - Response has sent
+2021-02-03 01:22:46 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:22:46 INFO  Client:54 - Response was gotten
+2021-02-03 01:22:46 INFO  Client:40 - Message has got
+2021-02-03 01:22:46 INFO  Client:46 - Request "6" has sent to server
+2021-02-03 01:22:46 INFO  Server:47 - Request has got
+2021-02-03 01:22:46 INFO  ServiceEditImp:55 - Class Task6 has created
+2021-02-03 01:22:46 INFO  Server:96 - Method run has done
+2021-02-03 01:22:46 INFO  Server:55 - Response has sent
+2021-02-03 01:22:46 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:22:46 INFO  Client:54 - Response was gotten
+2021-02-03 01:22:46 INFO  Client:40 - Message has got
+2021-02-03 01:22:48 INFO  Client:46 - Request "7" has sent to server
+2021-02-03 01:22:48 INFO  Server:47 - Request has got
+2021-02-03 01:22:48 INFO  ServiceEditImp:58 - Class Task7 has created
+2021-02-03 01:22:48 INFO  Server:96 - Method run has done
+2021-02-03 01:22:48 INFO  Server:55 - Response has sent
+2021-02-03 01:22:48 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:22:48 INFO  Client:54 - Response was gotten
+2021-02-03 01:22:48 INFO  Client:40 - Message has got
+2021-02-03 01:22:49 INFO  Client:46 - Request "88" has sent to server
+2021-02-03 01:22:49 INFO  Server:47 - Request has got
+2021-02-03 01:22:49 INFO  Server:96 - Method run has done
+2021-02-03 01:22:49 INFO  Server:55 - Response has sent
+2021-02-03 01:22:49 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:22:49 INFO  Client:54 - Response was gotten
+2021-02-03 01:22:49 INFO  Client:40 - Message has got
+2021-02-03 01:23:01 INFO  Client:46 - Request "exit" has sent to server
+2021-02-03 01:23:01 INFO  Client:49 - Client has left to the server
+2021-02-03 01:23:01 INFO  Client:62 - Client has disabled 
+ All streams have closed
+2021-02-03 01:23:01 INFO  Server:47 - Request has got
+2021-02-03 01:23:01 INFO  Server:50 - Client has disconnected
+2021-02-03 01:23:01 INFO  Server:64 - Server has closed 
+ All streams has closed
+2021-02-03 01:24:14 INFO  Server:28 - Server socket has been created
+2021-02-03 01:24:14 INFO  Server:32 - Server is waiting a client
+2021-02-03 01:24:18 INFO  Server:38 - Client has just connected
+2021-02-03 01:24:18 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:24:18 INFO  Client:31 - Streams have been created
+2021-02-03 01:24:18 INFO  Client:32 - Client has connected
+2021-02-03 01:24:18 INFO  Client:40 - Message has got
+2021-02-03 01:24:20 INFO  Client:46 - Request "1" has sent to server
+2021-02-03 01:24:20 INFO  Server:47 - Request has got
+2021-02-03 01:24:20 INFO  ServiceEditImp:40 - Class Task1 has created
+2021-02-03 01:24:20 INFO  Server:96 - Method run has done
+2021-02-03 01:24:21 INFO  Client:54 - Response was gotten
+2021-02-03 01:24:21 INFO  Server:55 - Response has sent
+2021-02-03 01:24:21 INFO  Client:40 - Message has got
+2021-02-03 01:24:21 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:24:21 INFO  Client:46 - Request "2" has sent to server
+2021-02-03 01:24:21 INFO  Server:47 - Request has got
+2021-02-03 01:24:21 INFO  ServiceEditImp:43 - Class Task2 has created
+2021-02-03 01:24:21 INFO  Server:96 - Method run has done
+2021-02-03 01:24:21 INFO  Server:55 - Response has sent
+2021-02-03 01:24:21 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:24:21 INFO  Client:54 - Response was gotten
+2021-02-03 01:24:21 INFO  Client:40 - Message has got
+2021-02-03 01:24:22 INFO  Client:46 - Request "3" has sent to server
+2021-02-03 01:24:22 INFO  Server:47 - Request has got
+2021-02-03 01:24:22 INFO  ServiceEditImp:46 - Class Task3 has created
+2021-02-03 01:24:22 INFO  Server:96 - Method run has done
+2021-02-03 01:24:22 INFO  Server:55 - Response has sent
+2021-02-03 01:24:22 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:24:22 INFO  Client:54 - Response was gotten
+2021-02-03 01:24:22 INFO  Client:40 - Message has got
+2021-02-03 01:24:22 INFO  Client:46 - Request "4" has sent to server
+2021-02-03 01:24:22 INFO  Server:47 - Request has got
+2021-02-03 01:24:22 INFO  ServiceEditImp:49 - Class Task4 has created
+2021-02-03 01:24:22 INFO  Server:96 - Method run has done
+2021-02-03 01:24:22 INFO  Server:55 - Response has sent
+2021-02-03 01:24:22 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:24:22 INFO  Client:54 - Response was gotten
+2021-02-03 01:24:22 INFO  Client:40 - Message has got
+2021-02-03 01:24:23 INFO  Client:46 - Request "5" has sent to server
+2021-02-03 01:24:23 INFO  Server:47 - Request has got
+2021-02-03 01:24:23 INFO  ServiceEditImp:52 - Class Task5 has created
+2021-02-03 01:24:23 INFO  Server:96 - Method run has done
+2021-02-03 01:24:23 INFO  Server:55 - Response has sent
+2021-02-03 01:24:23 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:24:23 INFO  Client:54 - Response was gotten
+2021-02-03 01:24:23 INFO  Client:40 - Message has got
+2021-02-03 01:24:23 INFO  Client:46 - Request "6" has sent to server
+2021-02-03 01:24:23 INFO  Server:47 - Request has got
+2021-02-03 01:24:23 INFO  ServiceEditImp:55 - Class Task6 has created
+2021-02-03 01:24:23 INFO  Server:96 - Method run has done
+2021-02-03 01:24:23 INFO  Server:55 - Response has sent
+2021-02-03 01:24:23 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:24:23 INFO  Client:54 - Response was gotten
+2021-02-03 01:24:23 INFO  Client:40 - Message has got
+2021-02-03 01:24:24 INFO  Client:46 - Request "7" has sent to server
+2021-02-03 01:24:24 INFO  Server:47 - Request has got
+2021-02-03 01:24:24 INFO  ServiceEditImp:58 - Class Task7 has created
+2021-02-03 01:24:24 INFO  Server:96 - Method run has done
+2021-02-03 01:24:24 INFO  Server:55 - Response has sent
+2021-02-03 01:24:24 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:24:24 INFO  Client:54 - Response was gotten
+2021-02-03 01:24:24 INFO  Client:40 - Message has got
+2021-02-03 01:24:24 INFO  Client:46 - Request "8" has sent to server
+2021-02-03 01:24:24 INFO  Server:47 - Request has got
+2021-02-03 01:24:24 INFO  Server:96 - Method run has done
+2021-02-03 01:24:24 INFO  Server:55 - Response has sent
+2021-02-03 01:24:24 INFO  Client:54 - Response was gotten
+2021-02-03 01:24:24 INFO  Client:40 - Message has got
+2021-02-03 01:24:24 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:24:26 INFO  Client:46 - Request "5434" has sent to server
+2021-02-03 01:24:26 INFO  Server:47 - Request has got
+2021-02-03 01:24:26 INFO  Server:96 - Method run has done
+2021-02-03 01:24:26 INFO  Server:55 - Response has sent
+2021-02-03 01:24:26 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:24:26 INFO  Client:54 - Response was gotten
+2021-02-03 01:24:26 INFO  Client:40 - Message has got
+2021-02-03 01:24:27 INFO  Client:46 - Request "454545" has sent to server
+2021-02-03 01:24:27 INFO  Server:47 - Request has got
+2021-02-03 01:24:27 INFO  Server:96 - Method run has done
+2021-02-03 01:24:27 INFO  Server:55 - Response has sent
+2021-02-03 01:24:27 INFO  Server:44 - Welcome message has been sent
+2021-02-03 01:24:27 INFO  Client:54 - Response was gotten
+2021-02-03 01:24:27 INFO  Client:40 - Message has got
+2021-02-03 01:24:31 INFO  Client:46 - Request "eXIT" has sent to server
+2021-02-03 01:24:31 INFO  Client:49 - Client has left to the server
+2021-02-03 01:24:31 INFO  Client:62 - Client has disabled 
+ All streams have closed
+2021-02-03 01:24:31 INFO  Server:47 - Request has got
+2021-02-03 01:24:31 INFO  Server:50 - Client has disconnected
+2021-02-03 01:24:31 INFO  Server:64 - Server has closed 
+ All streams has closed
